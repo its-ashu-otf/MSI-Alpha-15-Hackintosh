@@ -809,7 +809,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.9.0 | AppleALC.kext</string>
+                    <string>V1.8.9 | AppleALC.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -881,7 +881,7 @@
                     <key>BundlePath</key>
                     <string>AMDRyzenCPUPowerManagement.kext</string>
                     <key>Comment</key>
-                    <string>V0.7.2 | AMDRyzenCPUPowerManagement.kext</string>
+                    <string>V0.7.1 | AMDRyzenCPUPowerManagement.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -2209,7 +2209,7 @@
                     <key>SystemAudioVolume</key>
                     <data>gA==</data>
                     <key>boot-args</key>
-                    <string>-v keepsyms=1 debug=0x100 -wegnoegpu -vi2c-force-polling revpatch=media,sbvmm,cpuname revcpu=1 -cputsclock alcid=21</string>
+                    <string>-v keepsyms=1 debug=0x100 -wegnoegpu -vi2c-force-polling revpatch=media,sbvmm,cpuname revcpu=1 -cputsclock</string>
                     <key>csr-active-config</key>
                     <data>hwcAAA==</data>
                     <key>run-efi-updater</key>
