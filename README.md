@@ -29,10 +29,10 @@ _Information available only for possible references. I do not recommend followin
 | ------------ | ------------ |
 | Model  | Alpha 15 B5EEK  |
 | Bios Version  | E158LAMS.10B  |
-| CPU  |  AMD Ryzen™ 5 5800H Processor |
+| CPU  |  AMD Ryzen™ 7 5800H Processor |
 |  DGPU | AMD Radeon RX 6600M 8GB  |
-| RAM  | 40GB Kingston DDR4 2400/3200 MHz  |
-| NVMe  | Kingston SNV2S1000G 1TB for macOS / WD 512gb for Windows 11  |
+| RAM  | 40GB Kingston DDR4 3200 MHz  |
+| NVMe  | Kingston SNV2S1000G 500GB for macOS / WD 512gb for Windows 11  |
 | Ethernet  | Realtek RTL8111  |
 | Audio  | Realtek ALC287  |
 | LCD Panel  | 15.6 FHD IPS 144Hz  |
